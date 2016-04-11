@@ -1,4 +1,4 @@
-package com.magicwolf.niuke;
+package com.magicwolf.swordoffer;
 
 public class HasSubtree {
     public boolean HasSubtree(TreeNode root1, TreeNode root2) {

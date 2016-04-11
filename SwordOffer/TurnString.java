@@ -1,4 +1,4 @@
-package com.magicwolf.niuke;
+package com.magicwolf.swordoffer;
 /**
  * 翻转单词顺序列
  * @author MagicWolf

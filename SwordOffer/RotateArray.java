@@ -1,4 +1,4 @@
-package com.magicwolf.niuke;
+package com.magicwolf.swordoffer;
 
 public class RotateArray {
     public static int RotateArray(int [] array) {

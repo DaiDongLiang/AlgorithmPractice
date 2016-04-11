@@ -1,4 +1,4 @@
-package com.magicwolf.niuke;
+package com.magicwolf.swordoffer;
 
 import java.util.ArrayList;
 import java.util.List;

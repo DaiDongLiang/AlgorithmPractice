@@ -1,4 +1,4 @@
-package com.magicwolf.niuke;
+package com.magicwolf.swordoffer;
 /**
  * 根据先序遍历和中序遍历重建二叉树
  * @author MagicWolf
